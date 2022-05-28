@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: sans-serif;
+}
+body{
+    background-color: #f8e3ea;
+    height: 560px;
+}
+.bar-bars{
+
+    height: 55px;
+    width: 60px;
+    margin-top: 55px;
+    margin-left: 34px;
+    background-color: #c978ec;
+}
+.bars{
+    font-size: 20px;
+    color: white;
+    padding-top: 18px;
+    padding-left: 21px;
+
+}
+.side-bar{
+    height: 520px;
+    width: 60px;
+    background-color: #f2f1f1;
+    margin-left: 34px;
+    
+}
+.user{
+    color: #c978ec;
+    font-weight: 100;
+    font-size: 28px;
+    margin-top: 110px;
+    margin-left: 17px;
+    
+}
+.comment{
+    color: lightgrey;
+    font-size: 22px;
+    margin-top: 28px;
+    margin-left: 18px;
+}
+.cloud{
+    color: #c978ec;
+    font-weight: 100;
+    font-size: 28px;
+    margin-top: 130px;
+    margin-left: 15px;
+}
+.image{
+    margin-top: -610px;
+    margin-left: 93px;
+    
+}
+.picture{
+    height: 655px;
+    width: 388px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 0px 45px;
+}
+.right-side-bar{
+    height: 570px;
+    width: 800px;
+    margin-top: -620px;
+    margin-left: 480px;
+    background-color: #faf9f9;
+}
+.paraghraph-1{
+    padding-top: 45px;
+    margin-left: 50px;
+    line-height: 30px;
+    font-size: 20px;
+    width: 690px;
+    color: gray ;
+    
+}
+.line{
+    background-color: lightgray;
+    width: 690px;
+    height: 1px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.headding{
+    margin-top: 20px;
+    margin-left: 25px;
+    font-weight: 800;
+    font-size: 30px;
+}
+.display{
+    color: #c978ec;
+    font-size: 22px;
+    width: fit-content;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.rocket{
+    color: #c978ec;
+    font-size: 22px;
+    width: fit-content;
+    margin-left: 375px;
+}
+.h-left{
+    font-weight: BOLDer;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.h-right{
+    margin-top: -25px;
+    margin-left: 420px;
+}
+.develoment-paraghraph{
+    color: gray;
+    width: 243px;
+    margin-top: 15px;
+    margin-left: 50px;
+    line-height: 24px;
+}
+.seo-paraghraph{
+    width: 243px;
+    margin-top: -74px;
+    margin-left: 395px;
+    line-height: 24px;
+
+}
